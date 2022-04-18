@@ -1,6 +1,4 @@
 FROM p4lang/p4c:latest
-MAINTAINER Theo Jepsen <jepset@usi.ch>
-MAINTAINER Robert Soule <robert.soule@barefootnetworks.com>
 
 # Install dependencies and some useful tools.
 ENV NET_TOOLS iputils-arping \
